@@ -122,6 +122,7 @@ Update the website with information.
 
 ### 8. **Modify the JavaScript Alert**
 
+
 1. In the same `<script>` tag, change the alert text to display "Hello World, I'm a Developer":
 
    ```html
